@@ -1,2 +1,2 @@
 # Fruit-Ninja
-Fruit disappearing game
+Fruit disappearing game in GitHub
